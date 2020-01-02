@@ -5,7 +5,7 @@ const pixels = require('image-pixels')
 // Should be a 53px wide and 7px tall image. Each pixel's value is determined by its red channel
 const IMAGE_PATH = 'cat.png'
 const YEAR = 2020
-const BRIGHTNESS_STEPS = 7
+const BRIGHTNESS_STEPS = 6
 const DATE_START_OFFSET = 3
 
 let pixelData
